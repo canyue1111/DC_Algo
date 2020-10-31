@@ -1,13 +1,1 @@
-Introduction
-This statement of work outlines the general scope of the project named "Data Analysts’ salaries". The main objective of this project is to help both employers and employees to understand the existing US data analyst career market. Employers can take advantage of the salaries’ solutions to avoid overpaying employees, attract high levels of data analysts and reduce the employment turnover rate. It also guides the job seekers to pick a fair paid offer.  
-
-Problem Statement
-
-
-Data Requirements and limitation
-	All the contents within the data analyst hiring post are required. The expected essential data should include possible given salary, company name, company size, date of the company found, working location, certificate requirement, skills requirement and the sector it belongs to. Some information might be hard to see, but also important. For example, the working environment, bonus, 
-
-Validation process
-	The solution will be tested by several validation methods. Firstly, check score and find the accuracy. 
-
-Kaggle: https://www.kaggle.com/andrewmvd/data-analyst-jobs
+SEE THE DOC FILE FOR DETAILS
